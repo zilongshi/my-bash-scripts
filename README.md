@@ -1,2 +1,3 @@
-# my-bash-scripts
-Store some my own bash scripts.
+# Some of my useful bash scripts
+## Raspberry Pi
+- Install OpenCV
